@@ -1,0 +1,20 @@
+entries:
+  - title: me
+    entries:
+      - title: email
+        url: mailto:web.dandelion@gmail.com
+      - title: telegram
+        url: https://t.me/anrei_shiriaev
+      - title: github
+        url: https://github.com/zazoley
+
+  - title: nodes
+    entries:
+      - title: solana
+        entries:
+          - title: mainnet
+            url: https://www.validators.app/validators/JDNEkqjDDDMHb6qF8toRdg5geXkMXp4mD9hA42qn9zVh?network=mainnet
+          - title: testnet
+            url: https://www.validators.app/validators/DWic5rF2jQeAQr771cCgzyLbEMgXaq1AUyhnpmgDze1a?network=testnet
+      - title: sui - coming soon
+      - title: aptos - coming soon
