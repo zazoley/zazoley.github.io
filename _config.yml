@@ -4,6 +4,8 @@ description: Passionate node validator and web3 developer
 author: Andrei Shiriaev
 email: web.dandelion@gmail.com
 url: https://zazoley.dev
+github_username: zazoley
+goat_counter: zazoley
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
