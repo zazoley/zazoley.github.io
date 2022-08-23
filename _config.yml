@@ -1,6 +1,12 @@
 remote_theme: riggraz/no-style-please
 title: zazoley
-description: Node validator
+description: Passionate node validator and web3 developer
 author: Andrei Shiriaev
 email: web.dandelion@gmail.com
 url: https://zazoley.dev
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
