@@ -16,5 +16,7 @@ entries:
             url: https://www.validators.app/validators/JDNEkqjDDDMHb6qF8toRdg5geXkMXp4mD9hA42qn9zVh?network=mainnet
           - title: testnet
             url: https://www.validators.app/validators/DWic5rF2jQeAQr771cCgzyLbEMgXaq1AUyhnpmgDze1a?network=testnet
-      - title: sui - coming soon
+      - title: sui
+        entries:
+          - title: devnet
       - title: aptos - coming soon
